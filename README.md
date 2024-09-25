@@ -2,7 +2,7 @@
 
 Exercise for MSCH-C220
 
-A user-controlled ship for a space-shooter game. Recently added the ability to shoot at asteroids. Created in Unity.
+A user-controlled ship for a space-shooter game. Recently added menus. Created in Unity.
 
 ## Implementation
 
@@ -19,4 +19,4 @@ None
 None
 
 ## Created by
-Nathan Mishler
+Jesse Walker
